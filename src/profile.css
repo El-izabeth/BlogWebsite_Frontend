@@ -1,0 +1,16 @@
+.profile_div{
+    padding-left: 15px;
+    background-color: aliceblue;
+    height: 745px;
+}
+h1{
+    color: cadetblue;
+    text-decoration:underline;
+}
+h2{
+    margin-left: 20px;
+    text-decoration: none;
+    color:cadetblue;
+    opacity:80%;
+    font-weight: lighter;
+}

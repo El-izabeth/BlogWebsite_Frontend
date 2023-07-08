@@ -1,0 +1,105 @@
+
+.likeButton{
+    background-color: aliceblue;
+    margin-bottom: 10px;
+}
+.likeButton:hover{
+    background-color: lightsalmon;
+}
+
+.maindiv{
+    padding-top: 10px;
+    background-image: linear-gradient(cadetblue, aliceblue);
+    height: 735px;
+}
+
+.input{
+    border-color: black;
+}
+.warning{
+    color:crimson;
+}
+.titleInput{
+    
+    border-radius: 5px;
+    border: none;
+    height: 30px;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+.write{
+    margin-left:10px;
+    height:680px;
+    padding: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: aliceblue;
+    
+    
+}
+.works{
+    margin-left: 0px;
+    min-width: 200px;
+    padding: 10px;
+    background-color: white;
+    text-decoration: underline;
+    font-size:medium;
+    font-weight: lighter;
+}
+button{
+    margin-top: 10px;
+    width: fit-content;
+    height: 45px;
+    border:none;
+    border-radius: 2px;
+    background-color:aquamarine;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 500;
+    font-size: 19px;
+    display: inline;
+    color:cadetblue;
+    margin-left: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+h3{
+    color:indianred;
+}
+h2{
+    color:indianred;
+    text-decoration: underline;
+}
+.blog{
+    white-space: pre-wrap;
+    padding-bottom: 20px;
+}
+.backButton{
+    background-color:azure;
+    border-radius: 0px;
+    margin-left: 0px;
+    text-decoration-color: black;
+    text-decoration: none;
+}
+
+Link{
+    text-decoration-color: black;
+    text-decoration: none;
+}
+.div{
+    background-color: aliceblue;
+    height: fit-content;
+    padding: 20px;
+    margin-left: 20px;
+    
+}
+.writeSpace{
+    border-radius: 5px;
+    border: none;
+    font-family: 'Courier New', Courier, monospace;
+    font-size:4mm;
+    height: 400px;
+    width: 1200px;
+    margin-top: 5px;
+    margin-left: 0px;
+    vertical-align: top;
+    padding: 15px;
+}

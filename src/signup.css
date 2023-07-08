@@ -1,0 +1,56 @@
+.forms{
+    padding: 10px;
+    
+}
+h1{
+    color: indianred;
+}
+.input{
+    border-color: salmon;
+    border:none;
+    border-radius: 5px;
+    border-width: 3px;
+    min-height: 30px;
+
+}
+
+.label{
+    text-align:center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: lighter;
+    color: indianred;
+}
+.div{
+    display:block;
+    margin-left: 575px;
+    margin-top: 50px;
+    width: 300px;
+    height: 550px;
+    text-align: center;
+    align-content: center;
+    align-self: center;
+    border-radius: 10px;
+    background-color: lightsalmon;
+    border-color: indianred;
+
+    
+}
+
+button{
+  width: 100px;
+  height: 45px;
+  border:none;
+  border-radius: 5px;
+  background-color: salmon;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-weight: 500;
+  font-size: 19px;
+  display: inline;
+  color: indianred;
+  padding: 5px;
+}
+button:hover{
+    background-color: indianred;
+    color: salmon;
+    cursor: pointer;
+}
